@@ -1,10 +1,10 @@
 # CYBERWORRIORSBOT
 <h2 align="center">This Is Userbot Of Legend_Mr_Hacker</h2>
 
-<h1 align="center">⚡ LEGEND ⚡</h1>
+<h1 align="center">⚡ CYBERWORRIORS ⚡</h1>
 
 
-[![CYBERWORRIORSBOT](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://github.com/CYBERWORRIORS/LEGENDMUSIC)
+[![CYBERWORRIORSBOT](https://telegra.ph/file/7b2fefb2c78c90734444d.jpg)](https://github.com/LEGEND-OS/LEGENDBOT)
 
 
 <h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @The_Pro_Hacker By Hardwork.
@@ -68,7 +68,7 @@ This is the one and only official CYBERWORRIORSBOT Userbot made by Legend_Mr_Hac
 
 ###StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/CYBERWORRIORSBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@cyberworrior09/CYBERWORRIORSBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -86,7 +86,7 @@ This is the one and only official CYBERWORRIORSBOT Userbot made by Legend_Mr_Hac
 [![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
 
 
-<a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/The_Pro_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
